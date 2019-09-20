@@ -9,3 +9,4 @@ beta si lo ve
 Gama si lo ve
 
 ¿Si BETA agrega un archivo los demás integrantes lo ven?
+ALFA si lo ve
