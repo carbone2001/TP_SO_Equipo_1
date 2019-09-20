@@ -7,3 +7,5 @@ Michell Quintero Hernandez --- 192.168.2.102-- 10:05
 ¿Si ALFA agrega un archivo los demás integrantes lo ven?
 beta si lo ve
 Gama si lo ve
+
+¿Si BETA agrega un archivo los demás integrantes lo ven?
